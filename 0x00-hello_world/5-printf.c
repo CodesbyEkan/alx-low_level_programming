@@ -4,11 +4,11 @@
  * main - Entry point
  *
  * Description: Print out some text
- * return: ALways 0
+ * Return: Always 0
  */
 
 int main(void)
 {
-	printf("with proper grammer, but the outcome is a piece of art,");
+	printf("with proper grammar, but the outcome is a piece of art,");
 	return (0);
 }
