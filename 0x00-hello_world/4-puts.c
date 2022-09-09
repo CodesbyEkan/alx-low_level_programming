@@ -1,8 +1,6 @@
 #include <stdio.h>
-
 /*
- * main - Print the phrase "Programming is like building a multilingual puzzle"
- * 
+ * main - Entry point
  * Return: Always 0 if exited properly, non-zero if otherwise
  */
 int main(void)
