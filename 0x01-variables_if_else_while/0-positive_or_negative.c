@@ -11,7 +11,7 @@
  * Return: Always 0 Successful
  */
 
-int main(voi)
+int main(void)
 {
 	int n:
 	
