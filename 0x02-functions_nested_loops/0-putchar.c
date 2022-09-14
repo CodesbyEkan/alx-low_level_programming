@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <main.h>
 
 /**
  * main - Entry point
@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	char ci[] = "_putchar";
+	char ch[] = "_putchar";
 	int i;
 
 	for (i = 0; ch[i] != "\0"; i++)
