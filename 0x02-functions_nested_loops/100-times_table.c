@@ -17,12 +17,12 @@ void three_dig(int n)
 	_putchar(n % 10 + '0');
 }
 /**
- * print_times_table - prints the n times table, starting with 0
+ * times_table - prints the n times table, starting with 0
  * @n: the number times table
  *
  * Return: nothing
  */
-void print_times_table(int n)
+void times_table(int n)
 {
 	int i, j, product;
 
