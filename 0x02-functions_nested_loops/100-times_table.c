@@ -17,7 +17,7 @@ void three_dig(int n)
 	_putchar(n % 10 + '0');
 }
 /**
- * times_table - prints the n times table, starting with 0
+ * print_times_table - prints the n times table, starting with 0
  * @n: the number times table
  *
  * Return: nothing
